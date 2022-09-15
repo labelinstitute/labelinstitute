@@ -4,7 +4,7 @@ In this site you will find the code, data and instructions for the publications 
 
 2. [Non-Choice Data](https://github.com/labelinstitute/nonchoice)
 
-3. [Test of Theory]((https://github.com/labelinstitute/theorytest)
+3. [Test of Theory](https://github.com/labelinstitute/theorytest)
 
 4. [Ageing](https://github.com/labelinstitute/ageing)
 
